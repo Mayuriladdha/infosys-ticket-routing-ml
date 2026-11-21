@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1,Weighted F1
+Complement Naive Bayes,0.8163,0.8032,0.8148
+Linear SVM,0.8655,0.8649,0.8657
+Logistic Regression,0.8649,0.8659,0.8651

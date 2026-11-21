@@ -1,0 +1,69 @@
+{
+  "final_model": "Logistic Regression",
+  "accuracy": 0.8649,
+  "macro_f1": 0.8659,
+  "n_train": 38269,
+  "n_test": 9568,
+  "per_class": {
+    "Access": {
+      "precision": 0.899,
+      "recall": 0.897,
+      "f1-score": 0.898,
+      "support": 1425.0
+    },
+    "Administrative rights": {
+      "precision": 0.763,
+      "recall": 0.807,
+      "f1-score": 0.785,
+      "support": 352.0
+    },
+    "HR Support": {
+      "precision": 0.887,
+      "recall": 0.858,
+      "f1-score": 0.872,
+      "support": 2183.0
+    },
+    "Hardware": {
+      "precision": 0.859,
+      "recall": 0.842,
+      "f1-score": 0.85,
+      "support": 2724.0
+    },
+    "Internal Project": {
+      "precision": 0.834,
+      "recall": 0.899,
+      "f1-score": 0.865,
+      "support": 424.0
+    },
+    "Miscellaneous": {
+      "precision": 0.812,
+      "recall": 0.861,
+      "f1-score": 0.836,
+      "support": 1412.0
+    },
+    "Purchase": {
+      "precision": 0.942,
+      "recall": 0.895,
+      "f1-score": 0.918,
+      "support": 493.0
+    },
+    "Storage": {
+      "precision": 0.893,
+      "recall": 0.914,
+      "f1-score": 0.903,
+      "support": 555.0
+    },
+    "macro avg": {
+      "precision": 0.861,
+      "recall": 0.872,
+      "f1-score": 0.866,
+      "support": 9568.0
+    },
+    "weighted avg": {
+      "precision": 0.866,
+      "recall": 0.865,
+      "f1-score": 0.865,
+      "support": 9568.0
+    }
+  }
+}
